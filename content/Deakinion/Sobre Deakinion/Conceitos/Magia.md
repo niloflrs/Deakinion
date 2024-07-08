@@ -1,0 +1,11 @@
+"[...] De acordo com nossos estudos, a magia está no ar e o próprio vento pode afetar o seu funcionamento. Para que a magia possa se manifestar de forma física, ela precisa de um canalizador, este podendo ser um cajado, uma varinha, um livro, ou as próprias mãos, se o ser for tão magicamente sintonizado (como os elfos, por exemplo). Ainda não se sabe ao certo o que pode ou não pode ser utilizado como canal para a magia, mas acredito que algum dos nossos colegas da academia esteja conduzindo um estudo sobre isso. [...]"
+(NEFIUS, Karl. **O que é a Magia?**. 457 PC) 
+
+"[...] Um evento climático interessante e que não é muito incomum é o que chamamos de "Ventania Mágica". Durante esses ventos, a magia se canaliza no próprio vento, tornando-o roxo (o que aumenta ainda mais a credibilidade da teoria de "A Cor da Magia" de Nefius) e neste momento, quem está na ventania consegue tornar sua magia mais forte, calculamos com alguns testes, com a ajuda de alguns estudantes e professores da academia, que esta melhoria chega a cerca de 50%. [...]"
+(ARCEUS, Fanius. **Eventos climáticos de Deakinion**. 567 PC) 
+
+"[...] E é assim que o syphus consegue pegar a magia do ar e transformá-la em energia. A aplicação prática desta tecnologia é quase que infinita! Trouxemos como exemplo este pequeno objeto que chamamos de "Brochus". Ela pode minerar em um dia o que 20 anões demorariam uma semana. Com esta energia, podemos fazer de tudo! [...]" 
+(LESTA, Caesar. **Apresentação do Syphus à comunidade acadêmica**. 640 PC) 
+
+"[...] Nos últimos anos, com o aparecimento do Cataclisma, voltamos para a questão fundamental de Nefius: O que é a Magia? Ora, se ele conclui no final de seu livro que magia é algo que o próprio Pietas emana, então, a magia deveria ser boa, não? Ou então, Pietas é mal. Não há como ambos coexistirem, portanto, eis aqui minha teoria: A Magia não vem de Pietas, pelo menos não de forma direta. Quem nos dá a magia é Gaia, pois, por ser um divino, emana magia de suas entranhas que então nos conseguimos utilizar. Por isso os canalizadores (não confundir com os syphus de nossas máquinas) tem que ser de matéria inerentemente orgânica, como papel, madeira e etc. [...]"  
+(GAIUS, Marius. **Pietas e magia, um ensaio**. 1184 PC)

@@ -1,0 +1,7 @@
+Os Draconatus são uma tanto uma raça quanto uma praga, que afeta os que entram em contato com wyrms.
+#### Traços Biológicos
+Por se tornar draconatus e não nascer como um, o ser mantém a maioria das suas características físicas de nascença. Após a transformação, a sua pele se torna em escamas, seus olhos adquirem formatos reptilianos e o ser ganha a habilidade de projetar sopros altamente nocivos, sendo todas as características herdadas do wyrm que o infectou. Os draconatus tendem à possuir uma diminuição na sua expectativa de vida, diminuindo para cerca de 60 anos.
+#### Origem Geográfica e Distribuição
+Os draconatus podem ser encontrados por todo o continente, principalmente em áreas periféricas.
+#### História
+Os draconatus são a raça mais recente de Deakinion. Um draconatus surge quando qualquer ser consciente é ferido do pescoço para cima pela cauda de um wyrm. Após uma semana de vômitos e dores insuportáveis, o ser começa trocar a sua pele de nascença por escamas da cor do wyrm que o feriu, esta transformação se completando em cerca de 45 dias (uma estação), quando o infectado já pode ser chamado de draconatus. As pessoas que são infectadas costumam ter grandes cicatrizes que cobrem sua cara, então é muito comum ver draconatus com máscaras de wyrm, às vezes símbolo da glória de ter conseguido sair da batalha vitorioso, outras vezes uma marca da tragédia que o assola, mas quase sempre serve como um aviso para os que passam: "Não cheguem perto dos wyrms ou de mim".
