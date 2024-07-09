@@ -7,8 +7,12 @@ Halflings, como seus primos humanos, se encontram por toda Deakinion. Entretanto
 Os halflings foram criados n'O Concílio, por Limgi e Mens, sendo resultado da mistura entre os anões e os humanos. O que surgiu daí foi uma raça de seres simples, trabalhadores e muito focados em seus núcleos familiares e no trabalho.
 #### Informações Básicas
 Expectativa de vida: 150 anos;
+
 Expectativa de vida: 350 anos;
+
 Altura média: 0,9  - 1,2m;
+
 Peso médio: 40Kg;
+
 Descendentes genéticos: [[Draconatus]] e [[Syol]].
 

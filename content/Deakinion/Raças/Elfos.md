@@ -7,6 +7,9 @@ Os elfos altaneiros se encontram principalmente na cidadela de Efrul, no centro 
 Os Elfos foram criados por Cunina, mas até [[O Concílio]], eram seres que apenas existiam para servir e auxiliar sua criadora. Após este evento, os elfos (assim como outras raças bípedes) ganharam consciência e liberdade para agir como desejassem.
 #### Informações Básicas
 Expectativa de vida: 350 anos;
+
 Altura média: 1,9 - 2,1m;
+
 Peso médio: 150Kg;
+
 Descendentes genéticos: [[Draconatus]], [[Deakinion/Raças/Erkhûn|Erkhûn]], [[Gnomos]], [[Meio-Elfo]] e [[Syol]].

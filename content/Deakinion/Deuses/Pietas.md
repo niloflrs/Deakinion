@@ -1,0 +1,9 @@
+### O Conceptor
+Pietas é conhecido como o criador de [[Gaia]] e de todas as coisas, vivas e mortas. É contado que, desde o início dos tempos, antes de tudo ser o que é, Pietas já tinha visto em seus sonhos como a realidade viria a ser, apenas a fez. Ninguém além dos Grandes Três tem ideia de como ele seja.
+
+Pietas sempre existiu desde o início de tudo. Ele era, não apenas o único ser, mas também a única coisa que existia em todo o vazio do universo. Então, em seu enorme tédio, decidiu criar Gaia, um outro ser com quem poderia conversar, uma forma de não se sentir tão sozinho naquela imensidão. Primeiramente, Pietas começou criando os oceanos, depois a terra e tudo com que ela vem: Pedras, florestas, desertos, neve e todos os animais. Por fim, adicionou protetores para cuidar de tudo que havia em Gaia: Um homem pequeno e forte, nomeado "[[Limgi]]", feito das mesmas pedras que sustentavam Gaia e às quais foi encarregado de cuidar. Após isso, criou uma mulher, esta mais alta e mais elegante que o anterior, feita com a matéria orgânica que se encontrava com na superfície de Gaia. Esta, Pietas nomeou "[[Cunina]]". À Cunina, foi dada missão de cuidar de toda a natureza que existia. Por fim, Pietas criou o primeiro dos humanos, "[[Mens]]", o qual foi encarregado de supervisionar todos os seres vivos, garantindo que estes se mantivessem justos e não quebrassem o ciclo da vida. Este evento ficou conhecido como "A Concepção". Desde então, Pietas observa o que acontece na terra, auxiliando seus protetores quando necessário, e se divertindo com Gaia.
+
+#### Informações Básicas
+Religião: [[Igreja de Pietas]];
+
+Idade: Eterno.
